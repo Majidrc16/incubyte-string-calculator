@@ -17,3 +17,8 @@ A simple string calculator that takes a string of numbers and returns their sum.
    ```bash
    git clone https://github.com/Majidrc16/incubyte-string-calculator.git
 
+## Running Tests
+1. To run the tests for this project, execute the following command:
+
+```bash
+npm test
