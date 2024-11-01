@@ -15,4 +15,5 @@ A simple string calculator that takes a string of numbers and returns their sum.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/incubyte.git
+   git clone https://github.com/Majidrc16/incubyte-string-calculator.git
+
